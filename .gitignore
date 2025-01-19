@@ -1,0 +1,29 @@
+# Ignore all class files
+*.class
+
+# Ignore all log files
+*.log
+
+# Ignore all compiled Java files
+*.class
+
+# Ignore the bin directory
+bin/
+
+# Ignore the build directory
+build/
+
+# Ignore the target directory (Maven)
+target/
+
+# Ignore the .idea directory (IntelliJ IDEA)
+.idea/
+
+# Ignore the .vscode directory (Visual Studio Code)
+.vscode/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore other specific files or directories
+path/to/ignored/file_or_directory
